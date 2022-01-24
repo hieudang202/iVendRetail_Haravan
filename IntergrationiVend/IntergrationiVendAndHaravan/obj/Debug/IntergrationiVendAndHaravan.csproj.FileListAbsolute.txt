@@ -1,0 +1,13 @@
+D:\WORK\FTI\IVEND RETAIL\Source\IntergrationiVend\IntergrationiVendAndHaravan\bin\Debug\Asset\keyRequest.txt
+D:\WORK\FTI\IVEND RETAIL\Source\IntergrationiVend\IntergrationiVendAndHaravan\bin\Debug\IntergrationiVendAndHaravan.exe.config
+D:\WORK\FTI\IVEND RETAIL\Source\IntergrationiVend\IntergrationiVendAndHaravan\bin\Debug\IntergrationiVendAndHaravan.exe
+D:\WORK\FTI\IVEND RETAIL\Source\IntergrationiVend\IntergrationiVendAndHaravan\bin\Debug\IntergrationiVendAndHaravan.pdb
+D:\WORK\FTI\IVEND RETAIL\Source\IntergrationiVend\IntergrationiVendAndHaravan\bin\Debug\log4net.dll
+D:\WORK\FTI\IVEND RETAIL\Source\IntergrationiVend\IntergrationiVendAndHaravan\bin\Debug\System.Buffers.dll
+D:\WORK\FTI\IVEND RETAIL\Source\IntergrationiVend\IntergrationiVendAndHaravan\bin\Debug\System.Memory.dll
+D:\WORK\FTI\IVEND RETAIL\Source\IntergrationiVend\IntergrationiVendAndHaravan\obj\Debug\Service.ProjectInstaller.resources
+D:\WORK\FTI\IVEND RETAIL\Source\IntergrationiVend\IntergrationiVendAndHaravan\obj\Debug\IntergrationiVendAndHaravan.csproj.GenerateResource.cache
+D:\WORK\FTI\IVEND RETAIL\Source\IntergrationiVend\IntergrationiVendAndHaravan\obj\Debug\IntergrationiVendAndHaravan.csproj.CoreCompileInputs.cache
+D:\WORK\FTI\IVEND RETAIL\Source\IntergrationiVend\IntergrationiVendAndHaravan\obj\Debug\IntergrationiVendAndHaravan.csproj.CopyComplete
+D:\WORK\FTI\IVEND RETAIL\Source\IntergrationiVend\IntergrationiVendAndHaravan\obj\Debug\IntergrationiVendAndHaravan.exe
+D:\WORK\FTI\IVEND RETAIL\Source\IntergrationiVend\IntergrationiVendAndHaravan\obj\Debug\IntergrationiVendAndHaravan.pdb
